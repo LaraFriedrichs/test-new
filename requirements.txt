@@ -5,3 +5,4 @@ pydeck
 streamlit
 matplotlib
 httpimport
+bokeh == 2.4.1
